@@ -264,7 +264,7 @@
     }
   },
   "shop/books|Popular": {
-    "countryCodes": ["hk", "my", "sg"],
+    "countryCodes": ["hk", "my", "sg", "ca", "uk", "tw", "cn", "bn", "au"],
     "matchTags": ["shop/stationery"],
     "nomatch": ["amenity/bank|Popular"],
     "tags": {
@@ -648,6 +648,20 @@
       "name": "新华书店",
       "name:en": "Xinhua Bookstore",
       "name:zh": "新华书店",
+      "shop": "books"
+    }
+  },
+  "shop/books|誠品書店": {
+    "countryCodes": ["tw", "hk", "cn", "jp"],
+    "tags": {
+      "brand": "誠品書店",
+      "brand:en": "Eslite Bookstore",
+      "brand:wikidata": "Q391988",
+      "brand:wikipedia": "zh:誠品書店",
+      "brand:zh": "誠品書店",
+      "name": "誠品書店",
+      "name:en": "Eslite Bookstore",
+      "name:zh": "誠品書店",
       "shop": "books"
     }
   },
