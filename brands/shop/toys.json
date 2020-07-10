@@ -157,6 +157,17 @@
       "shop": "toys"
     }
   },
+  "shop/toys|MR.TOY": {
+    "locationSet": {
+      "include": ["my"]
+    },
+    "tags": {
+      "brand": "MR.TOY",
+      "brand:wikidata": "Q97119356",
+      "name": "MR.TOY",
+      "shop": "toys"
+    }
+  },
   "shop/toys|PicWic": {
     "locationSet": {"include": ["fr"]},
     "tags": {
