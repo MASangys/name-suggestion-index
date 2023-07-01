@@ -11854,10 +11854,8 @@
       "id": "rapidkl-9c952e",
       "locationSet": {"include": ["my"]},
       "tags": {
-        "network": "Rapid KL",
-        "network:wikidata": "Q3271384",
-        "operator": "Prasarana Malaysia",
-        "operator:wikidata": "Q4209298",
+        "operator": "Rapid KL",
+        "operator:wikidata": "Q3271384",
         "route": "bus"
       }
     },
@@ -11866,10 +11864,8 @@
       "id": "rapidpenang-9c952e",
       "locationSet": {"include": ["my"]},
       "tags": {
-        "network": "Rapid Penang",
-        "network:wikidata": "Q4259055",
-        "operator": "Prasarana Malaysia",
-        "operator:wikidata": "Q4209298",
+        "operator": "Rapid Penang",
+        "operator:wikidata": "Q4259055",
         "route": "bus"
       }
     },
